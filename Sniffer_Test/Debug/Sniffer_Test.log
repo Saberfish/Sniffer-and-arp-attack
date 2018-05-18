@@ -1,0 +1,8 @@
+﻿  Sniffer_TestDlg.cpp
+d:\vs_desktop_test\sniffer_test\resource.h(28): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(10817): note: 参见“IDCANCEL”的前一个定义
+d:\vs_desktop_test\sniffer_test\sniffer_testdlg.cpp(284): warning C4101: “s”: 未引用的局部变量
+d:\vs_desktop_test\sniffer_test\sniffer_testdlg.cpp(902): warning C4552: “<<”: 运算符不起任何作用；应输入带副作用的运算符
+d:\vs_desktop_test\sniffer_test\sniffer_testdlg.cpp(1126): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+d:\vs_desktop_test\sniffer_test\sniffer_testdlg.cpp(1126): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  Sniffer_Test.vcxproj -> D:\VS_DESKTOP_TEST\Sniffer_Test\Debug\Sniffer_Test.exe
